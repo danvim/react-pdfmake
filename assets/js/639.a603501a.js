@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[639],{1639:e=>{e.exports=JSON.parse('{"children":{"defaultValue":null,"description":"","name":"children","declarations":[{"fileName":"react-pdfmake/src/demo/components/Heading.tsx","name":"TypeLiteral"}],"required":false,"type":{"name":"ReactNode"}}}')}}]);
